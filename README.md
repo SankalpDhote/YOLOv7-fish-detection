@@ -36,7 +36,7 @@
 
 ---
 
-📊 ** Evaluation:**  python test.py --data data/custom.yaml --weights best.pt
+📊 **Evaluation:**  python test.py --data data/custom.yaml --weights best.pt
 
 ---
 
